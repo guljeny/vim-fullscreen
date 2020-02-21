@@ -1,0 +1,1 @@
+:fullscreen - toggle fullscreen for current window
